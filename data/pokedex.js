@@ -26,13 +26,13 @@ let BattlePokedex = {
 		weightkg: 13,
 		color: "Green",
 		prevo: "bulbasaur",
-		evos: ["venusaur"],
+		evos: ["rectreem"],
 		evoLevel: 16,
 		eggGroups: ["Monster", "Grass"],
 	},
-	venusaur: {
+	rectreem: {
 		num: 3,
-		species: "Venusaur",
+		species: "Rectreem",
 		types: ["Grass", "Ground"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 90, atk: 120, def: 95, spa: 70, spd: 70, spe: 80},
