@@ -30,13 +30,13 @@ let BattlePokedex = {
 		evoLevel: 16,
 		eggGroups: ["Monster", "Grass"],
 	},
-	venusaur: {
+	rectreem: {
 		num: 3,
-		species: "Venusaur",
-		types: ["Grass", "Poison"],
+		species: "Rectreem",
+		types: ["Grass", "Ground"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 80, atk: 82, def: 83, spa: 100, spd: 100, spe: 80},
-		abilities: {0: "Overgrow", H: "Chlorophyll"},
+		abilities: {0: "Overgrow"},
 		heightm: 2,
 		weightkg: 100,
 		color: "Green",

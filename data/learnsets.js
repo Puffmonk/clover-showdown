@@ -182,7 +182,7 @@ let BattleLearnsets = {
 		workup: ["7M"],
 		worryseed: ["7T", "7L36", "6T", "6L36", "5T", "5L36", "4T", "4L36"],
 	}},
-	venusaur: {learnset: {
+	rectreem: {learnset: {
 		attract: ["7M", "7V", "6M", "5M", "4M", "3M"],
 		bide: ["7V"],
 		bind: ["7T", "6T", "5T"],
