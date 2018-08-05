@@ -260,7 +260,6 @@ let BattleLearnsets = {
 		venoshock: ["7M", "6M", "5M"],
 		vinewhip: ["7L9", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
 		workup: ["7M"],
-		worryseed: ["7T", "7L39", "6T", "6L39", "5T", "5L39", "4T", "4L39"],
 	}},
 	charmander: {learnset: {
 		acrobatics: ["5S6"],
