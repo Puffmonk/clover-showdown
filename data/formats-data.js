@@ -7308,6 +7308,16 @@ let BattleFormatsData = {
 		tier: "OU",
 		doublesTier: "DUU",
 	},
+	zeraora: {
+		randomBattleMoves: ["plasmafists", "closecombat", "voltswitch", "hiddenpowerice", "knockoff", "grassknot", "workup"],
+		randomDoubleBattleMoves: ["plasmafists", "closecombat", "voltswitch", "hiddenpowerice", "knockoff", "grassknot", "fakeout", "protect"],
+		eventPokemon: [
+			{"generation": 7, "level": 50, "moves": ["plasmafists", "thunderpunch", "closecombat", "thunder"]},
+		],
+		eventOnly: true,
+		tier: "OU",
+		doublesTier: "DOU",
+	},
 	missingno: {
 		randomBattleMoves: ["watergun", "skyattack", "doubleedge", "metronome"],
 		isNonstandard: true,
