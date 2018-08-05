@@ -32,7 +32,7 @@ let BattlePokedex = {
 	},
 	rectreem: {
 		num: 3,
-		species: "Rectreem",
+		species: "rectreem",
 		types: ["Grass", "Ground"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 90, atk: 120, def: 95, spa: 70, spd: 70, spe: 80},
