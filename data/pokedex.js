@@ -13237,18 +13237,6 @@ let BattlePokedex = {
 		color: "White",
 		eggGroups: ["Undiscovered"],
 	},
-	zeraora: {
-		num: 807,
-		species: "Zeraora",
-		types: ["Electric"],
-		gender: "N",
-		baseStats: {hp: 88, atk: 112, def: 75, spa: 102, spd: 80, spe: 143},
-		abilities: {0: "Volt Absorb"},
-		heightm: 1.5,
-		weightkg: 44.5,
-		color: "Yellow",
-		eggGroups: ["Undiscovered"],
-	},
 	missingno: {
 		num: 0,
 		species: "Missingno.",
