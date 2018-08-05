@@ -7308,11 +7308,6 @@ let BattleFormatsData = {
 		tier: "OU",
 		doublesTier: "DUU",
 	},
-		],
-		eventOnly: true,
-		tier: "OU",
-		doublesTier: "DOU",
-	},
 	missingno: {
 		randomBattleMoves: ["watergun", "skyattack", "doubleedge", "metronome"],
 		isNonstandard: true,
